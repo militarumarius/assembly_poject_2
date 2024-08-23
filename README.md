@@ -62,9 +62,9 @@ necesare apelari functiei , dar si valorile necesare acre imi trebuiau dupa
 pentru a continua bubla mark_neighbours pentru atunci cand ma intorceam din 
 recursivitate.Continui pana cand toti veciniti au fost vizitati.
 
-## BONUS
+## Functional
 
-* in cadrul bonusului am avut de implementat doua functionale in assembly x64 .
+* in cadrul acestui task am avut de implementat doua functionale in assembly x64 .
     - pentru map am implementat bucla for tinand seama de conventia pentru 
     apelul functiilor in x64 si anume ca argumentele functiei sunt transmise 
     prin registri rdi, rsi, rdx, rcx in aceasta ordine si nu prin stiva . 
